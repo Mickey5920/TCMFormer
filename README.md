@@ -1,2 +1,4 @@
 # TCMFormer
-TCMFormer: A Tabular-Capsule and Multimodal Transformer Network for Integrated Health Risk Prediction
+TCMFormer: Integrating Static Phenotypes and Longitudinal Events for Comprehensive Health Risk Assessment
+This paper has been submitted to ICASSP2026
+
